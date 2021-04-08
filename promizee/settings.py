@@ -135,8 +135,8 @@ EMAIL_HOST="smtp.gmail.com"
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
-EMAIL_HOST_USER = "d090girija@gmail.com"
-EMAIL_HOST_PASSWORD = "Girija@4312"
+EMAIL_HOST_USER = "Enter YOur Email Here"
+EMAIL_HOST_PASSWORD = "Enter Your Password Here"
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
 
 # Default primary key field type
